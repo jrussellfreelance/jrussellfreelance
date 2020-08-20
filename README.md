@@ -1,5 +1,13 @@
 ### Hi there 👋
+My passion is automation. I love building processes and writing scripts to save someone time.
 
+My biggest areas of expertise mostly involve things like server-side scripting and configuration.
+
+Right now I’m a freelancer and a consultant. I’ve also worked for various tech startups in the Indianapolis area.
+
+I consider myself a clever system administrator that automates my clients’ processes so that they can focus on bigger things.
+
+I am also a competent full stack developer, so I have the ability to diagnose a wide range of issues, maintaining the solutions I develop.
 <!--
 **jrussellfreelance/jrussellfreelance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
