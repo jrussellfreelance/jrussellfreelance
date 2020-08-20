@@ -7,7 +7,7 @@ Right now I’m a freelancer and a consultant. I’ve also worked for various te
 
 I consider myself a clever system administrator that automates my clients’ processes so that they can focus on bigger things.
 
-I am also a competent full stack developer, so I have the ability to diagnose a wide range of issues, maintaining the solutions I develop.
+I am also a developer, so I have the ability to diagnose a wide range of issues, maintaining the solutions I develop.
 <!--
 **jrussellfreelance/jrussellfreelance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
