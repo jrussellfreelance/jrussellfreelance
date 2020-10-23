@@ -5,7 +5,7 @@ My biggest areas of expertise mostly involve things like server-side scripting a
 
 Right now I’m a freelancer and a consultant. I’ve also worked for various tech startups in the Indianapolis area.
 
-I consider myself a clever system administrator that automates my clients’ processes so that they can focus on bigger things.
+I consider myself a clever system architect that automates my clients’ processes so that they can focus on bigger things.
 
 I am also a developer, so I have the ability to diagnose a wide range of issues, maintaining the solutions I develop.
 <!--
