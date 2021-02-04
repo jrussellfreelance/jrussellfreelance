@@ -1,11 +1,12 @@
-### I'm Jesse, a passionate freelancer and consultant.
-My passion is automation. I love building processes and writing scripts to save someone time.
+#### I'm Jesse, a passionate freelancer and consultant.
 
-My biggest areas of expertise mostly involve things like server-side scripting and configuration.
+I design and code technical solutions for clients with an emphasis on scripting and automation development.
 
-Right now I’m a freelancer and a consultant. I’ve also worked for various tech startups in the Indianapolis area.
+My areas of expertise primarily involve tasks like web scraping, server-side scripting, API development, and administration of all kinds.
 
-I consider myself a clever solution architect that automates my clients’ processes so that they can focus on bigger things.
+I’m currently a freelancer and a consultant. I’ve also worked for various tech startups in the Indianapolis area.
+
+I consider myself a clever solution designer that automates my clients’ processes, solving their problems so that they can focus on bigger things.
 
 I am also a developer, so I have the ability to diagnose a wide range of issues, maintaining the solutions I develop.
 
