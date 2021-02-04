@@ -1,4 +1,4 @@
-### I'm Jesse.
+### I'm Jesse, a passionate freelancer and consultant.
 My passion is automation. I love building processes and writing scripts to save someone time.
 
 My biggest areas of expertise mostly involve things like server-side scripting and configuration.
