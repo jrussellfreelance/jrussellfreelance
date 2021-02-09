@@ -12,10 +12,10 @@ I am also a developer, so I have the ability to diagnose a wide range of issues,
 <a href="https://github-readme-stats.vercel.app/api?username=jrussellfreelance&theme=dracula&show_icons=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jrussellfreelance&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jrussellfreelance">
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jrussellfreelance&theme=dracula">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrussellfreelance&theme=dracula" />
+</a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jrussellfreelance">
 </a>
 </div>
