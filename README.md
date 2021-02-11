@@ -1,4 +1,5 @@
 #### I'm Jesse, a passionate freelancer and consultant.
+<script type="text/javascript" src="https://github-profile.com/dist/gh-profile-card.min.js"></script>
 <div id="github-card" 
 	data-sort-by="stars"
 	data-header-text="Most starred repositories"
