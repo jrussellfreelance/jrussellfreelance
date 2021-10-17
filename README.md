@@ -1,6 +1,6 @@
 ### I'm Jesse, a passionate freelancer and consultant.
 [![Gmail Badge](https://img.shields.io/badge/-jesse@jrussell.io-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jesse@jrussell.io)](mailto:jesse@jrussell.io)
-[![Linkedin Badge](https://img.shields.io/badge/-jesserussell110-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesserussell110/)](https://www.linkedin.com/in/jesserussell110/)
+[![Linkedin Badge](https://img.shields.io/badge/-jrussellfreelance-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrussellfreelance/)](https://www.linkedin.com/in/jrussellfreelance/)
 [![Github Badge](https://img.shields.io/badge/-jrussellfreelance-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jrussellfreelance/)](https://www.github.com/jrussellfreelance/)
 [![Github View Count](https://komarev.com/ghpvc/?username=jrussellfreelance)](https://github.com/antonkomarev/github-profile-views-counter)
 
