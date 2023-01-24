@@ -12,6 +12,3 @@
 
 - I am also a developer, so I have the ability to diagnose a wide range of issues, maintaining the solutions I develop.</p>
 
-#### Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=jrussellfreelance&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/jrussellfreelance/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrussellfreelance&layout=compact&theme=dracula)](https://github.com/jrussellfreelance/github-readme-stats)
