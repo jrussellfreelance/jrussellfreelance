@@ -1,4 +1,4 @@
-### I'm Jesse, a passionate freelancer and consultant.
+### I'm Jesse, a technical solutions engineer.
 [![Gmail Badge](https://img.shields.io/badge/-jesse@jrussell.io-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jesse@jrussell.io)](mailto:jesse@jrussell.io)
 [![Linkedin Badge](https://img.shields.io/badge/-jrussellfreelance-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrussellfreelance/)](https://www.linkedin.com/in/jrussellfreelance/)
 [![Github Badge](https://img.shields.io/badge/-jrussellfreelance-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jrussellfreelance/)](https://www.github.com/jrussellfreelance/)
